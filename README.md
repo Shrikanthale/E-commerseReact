@@ -1,4 +1,4 @@
-# LUXE — Premium E‑Commerce Storefront
+# SHRI — Premium E‑Commerce Storefront
 
 React + JavaScript + Material UI + Framer Motion demo storefront: catalog, product detail, cart, wishlist, checkout UI, filters, dark/light mode, glass surfaces, and motion (including a flying “add to bag” cue).
 
