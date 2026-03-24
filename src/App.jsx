@@ -4,12 +4,12 @@ import { Route, Routes } from 'react-router-dom';
 import Layout from './components/layout/Layout';
 import { useShop } from './context/useShop';
 import { createAppTheme } from './theme/createAppTheme';
-import CartPage from './pages/CartPage';
-import CheckoutPage from './pages/CheckoutPage';
-import Home from './pages/Home';
-import ProductDetail from './pages/ProductDetail';
-import Products from './pages/Products';
-import WishlistPage from './pages/WishlistPage';
+import CartPage from './Pages/CartPage';
+import CheckoutPage from './Pages/CheckoutPage';
+import Home from './Pages/Home';
+import ProductDetail from './Pages/ProductDetail';
+import Products from './Pages/Products';
+import WishlistPage from './Pages/WishlistPage';
 
 function ThemedRoutes() {
   const { colorMode } = useShop();
